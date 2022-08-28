@@ -1,0 +1,1 @@
+Select * From Sysobjects where type like 'u%'
